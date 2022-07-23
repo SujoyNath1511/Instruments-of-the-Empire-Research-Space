@@ -1,0 +1,1 @@
+This directory contains all of the scripts used in the educational games and experiences within the CISTERN space. In this readme file, we will post descriptions of each of the scripts and what they do.
